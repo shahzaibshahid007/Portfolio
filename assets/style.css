@@ -1,0 +1,212 @@
+.black {
+    background-color: #363543;
+}
+
+.header-logo a {
+    color: darkorange;
+    text-decoration: none;
+    font-size: 35px;
+    text-align: center;
+    display: block;
+    padding: 13px;
+    font-weight: 700;
+}
+
+.nav-item a {
+    color: aliceblue !important;
+    font-size: 23px;
+    padding: 15px;
+}
+
+.icon-logo i {
+    color: white;
+    font-size: 36px;
+    padding: 22px 0px;
+}
+
+.custom-height {
+    height: 70vh;
+    background-color: #363543;
+}
+
+.headings h3 {
+    font-size: 60px;
+    color: grey;
+    font-family: emoji;
+    margin: 130px 0px 0px;
+    width: 50%;
+    text-align: center;
+}
+
+.headings h1 {
+    font-size: 80px;
+    font-family: emoji;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    line-height: 1.5em;
+}
+
+.line {
+    height: 6px !important;
+    width: 35%;
+    color: #E89020;
+    margin-left: 20%;
+}
+
+.headings p {
+    color: white;
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 45px;
+}
+
+.profile-img img {
+    height: 50vh;
+    width: 100%;
+    border-radius: 240px;
+    margin-left: -48%;
+    margin-top: 20%;
+}
+
+.services h4 {
+    color: white;
+    font-size: 34px;
+    margin-top: 33%;
+    line-height: 2.3em;
+}
+
+.services p {
+    color: white;
+    width: 64%;
+    font-size: 22px;
+}
+
+.services a {
+    color: darkorange;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.social-icons a {
+    color: darkorange;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 8vh;
+    letter-spacing: 10px;
+}
+
+.custom-background {
+    background-color: black;
+    height: 16vh;
+}
+
+.icons img {
+    height: 150px;
+    width: 250px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.custom-color {
+    background-color: #282832;
+    height: 68vh;
+}
+
+.para h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+    line-height: 2.3em;
+    font-weight: bold;
+}
+
+.para p {
+    color: white;
+    font-size: 18px;
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.para-2 h2 {
+    color: white;
+}
+
+.para-2 p {
+    color: white;
+}
+
+.para-3 {
+    float: left;
+}
+
+.para-3 h2 {
+    color: white;
+}
+
+.para-3 p {
+    color: white;
+}
+
+.custom-align, .custom-align-1 {
+    display: flex;
+}
+  
+*{
+    box-sizing: border-box;
+}
+  
+.parent {
+    width: 70%;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0 9rem;
+    justify-content: center;
+}
+  
+.child h2 {
+    color: darkorange;
+    margin-left: 25px;
+    font-size: 45px;
+}
+
+.child h6 {
+    margin-top: -20px;
+}
+
+.child {
+    flex: 1 0 25%;
+    min-width: 200px;
+    padding: 0 0.5rem 1rem;
+    overflow: hidden;
+}
+  
+.child > div {
+    color: white;
+}
+
+.spacing {
+    margin-top: 50px;
+}
+
+.setting {
+    display: flex;
+    margin: 10px;
+}
+
+.custom-image img {
+    width: 270px;
+    height: 120px;
+}
+
+.custom-heading h3 {
+    color: white;
+    padding: 40px 30px;
+}
